@@ -1,0 +1,38 @@
+body{
+text-align: center;
+}
+header{
+  background-color: #bf8040;
+  font-size: 20px;
+padding: 0.3px;
+
+
+}
+div{
+
+  /* background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+ */
+
+}
+h1 {
+
+    font-weight: bold;
+    color: #fff;
+}
+button{
+  height: 40px;
+  width:100px;;
+  border-radius: 20px;
+  background-color: #bf8040;
+  color: #fff;
+  border: 0px;
+
+}
+button:hover{
+  background-color:black;
+  color: #bf8040;
+  border: 2px;
+  
+}
